@@ -8,24 +8,24 @@
 
 <p>Simple java calculator, with textboxes and menus.
 Operations implemented:
--Sum
--Subtraction
--Multiplication
--Division
--Exponentiation
--Square Root
--Cubic Root
--First Degree Equations
--Second Degree Equations
+<br/>-Sum
+<br/>-Subtraction
+<br/>-Multiplication
+<br/>-Division
+<br/>-Exponentiation
+<br/>-Square Root
+<br/>-Cubic Root
+<br/>-First Degree Equations
+<br/>-Second Degree Equations
 
-OBS:Second degree equations are satisfactory, but need some improvement.</p>
+<br/>OBS:Second degree equations are satisfactory, but need some improvement.</p>
 <p>Version : 1.0.0</p>
 <p>Developed By : MrX</p>
 
 
 <h2>Documentation</h2>
 
-<p>Documentation <a href="https://raw.githack.com//MrX456/Simple_Calculator/main/_Documentation/javadoc/index.html">here</a></p>
+<p>Documentation <a href="https://raw.githack.com/MrX456/Simple_Calculator/main/_Documentation/javadoc/index.html">here</a></p>
 
 
 <h2>Deployment</h2>
